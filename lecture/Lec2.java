@@ -1,1 +1,1 @@
-package Lectures;
+package lecture;
