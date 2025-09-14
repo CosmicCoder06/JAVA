@@ -1,6 +1,6 @@
 package lecture;
 
-public class Trail
+public class Streak1
  {
 
     
