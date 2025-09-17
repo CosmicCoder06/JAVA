@@ -5,4 +5,4 @@ public class Streak {
         System.out.println("Hello World!");
         System.out.println("Hi World");   
       }
-} //streak k liye krna pd rha hai
+} 
