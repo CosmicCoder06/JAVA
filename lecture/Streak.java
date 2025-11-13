@@ -1,8 +1,8 @@
-package lecture;
+// package lecture;
 
-public class Streak {       
-      public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("Hi World");   
-      }
-} 
+// public class Streak {       
+//       public static void main(String[] args) {
+//         System.out.println("Hello World!");
+//         System.out.println("Hi World");   
+//       }
+// } 
