@@ -12,7 +12,7 @@ public class Car extends Vehicle {
         System.out.println(brand + " car engine starts (smoothly).");
     }
     
-    public void startEngine(boolean warmUp) {
+    // public void startEngine(boolean warmUp) {
         if (warmUp) {
             System.out.println(brand + " car warming up then starting.");
         }
