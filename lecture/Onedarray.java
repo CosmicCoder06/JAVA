@@ -1,4 +1,4 @@
-package lecture;
+package Lecture;
 
 public class Onedarray {
     public static void main(String[] args) {

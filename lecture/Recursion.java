@@ -2,7 +2,7 @@
 //
 
 
-package lecture;
+package Lecture;
 
 public class Recursion {
     

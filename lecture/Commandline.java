@@ -1,4 +1,4 @@
-package lecture;
+package Lecture;
 
 class Commandline {
     static public void main(String[] args){

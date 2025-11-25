@@ -1,4 +1,4 @@
-package lecture;
+package Lecture;
 
 public class Linearsearch {
 
