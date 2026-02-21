@@ -10,6 +10,5 @@ public class Array {
             System.out.println("Enter the elements in the array: "+arr[i]);
         }
         System.out.println();
-      
     }
 }
